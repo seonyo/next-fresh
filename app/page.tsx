@@ -1,5 +1,3 @@
-import Link from "next/link"
-
 export default function Home() {
   let name :string = 'sunny'
   let link :string = 'http://google.com'
