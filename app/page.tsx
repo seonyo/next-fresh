@@ -1,6 +1,6 @@
 export default function Home() {
-  let name = 'park'
-  let link = 'http://google.com'
+  let name :string = 'sunny'
+  let link :string = 'http://google.com'
   return(
     <div>
       <h4 className="title">선영후레시</h4>
